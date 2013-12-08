@@ -5,7 +5,8 @@
 		"gameName": {
 			"en": "FUTURISM",
 			"ko": "미래의 배",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Futurism"
 		},
 		"login": {
 			"en": "LOGIN",
@@ -15,7 +16,8 @@
 		"credits": {
 			"en": "CREDITS",
 			"ko": "인정함",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "crédits"
 		},
 		"instructions": {
 			"en": "EDU-VIDS",
@@ -30,12 +32,14 @@
 		"saveAndLoad": {
 			"en": "Save n Load",
 			"ko": "저장",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Saver et Chargement"
 		},
 		"nameIt": {
 			"en": "Name It",
 			"ko": "이름",
-			"ct": "meow"
+			"ct": "meow",
+			"it": "Nom est"
 		},
 		"imageUpload": {
 			"en": "Image Upload",
@@ -50,32 +54,38 @@
 		"save": {
 			"en": "Save",
 			"ko": "저장",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Sauver"
 		},
 		"load": {
 			"en": "Load",
 			"ko": "하중",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Chargement"
 		},
 		"new": {
 			"en": "New",
 			"ko": "새로운",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Nouveau"
 		},
 		"delete": {
 			"en": "Delete",
 			"ko": "삭제",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Effacer"
 		},
 		"attack": {
 			"en": "Attack",
 			"ko": "공격",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Attaque"
 		},
 		"health": {
 			"en": "Health",
 			"ko": "건강",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Santé"
 		}
 	},
 
@@ -86,7 +96,8 @@
 		"say": {
 			"en": "say",
 			"ko": "말하다",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "dit"
 		},
 		"placeholder": {
 			"en": "type to chat",
@@ -101,27 +112,32 @@
 		"saveAndLoad": {
 			"en": "Save n Load",
 			"ko": "저장",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Sauver et Chargement"
 		},
 		"save": {
 			"en": "Save",
 			"ko": "저장",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Sauver"
 		},
 		"load": {
 			"en": "Load",
 			"ko": "하중",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Chargement"
 		},
 		"new": {
 			"en": "New",
 			"ko": "새로운",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Nouveau"
 		},
 		"delete": {
 			"en": "Delete",
 			"ko": "삭제",
-			"ct": "meow"
+			"ct": "meow",
+			"fr": "Effacer"
 		},
 		"nameIt": {
 			"en": "Name It",
